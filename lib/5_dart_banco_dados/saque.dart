@@ -1,4 +1,4 @@
-import 'package:dart_fundamentos/5_dart_banco_dados/database.dart';
+import 'package:introducao_dart/5_dart_banco_dados/database.dart';
 
 void main() async {
   var database = Database();

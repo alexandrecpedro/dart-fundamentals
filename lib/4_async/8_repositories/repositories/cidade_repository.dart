@@ -1,4 +1,4 @@
-import 'package:dart_fundamentos/4_async/8_repositories/models/cidade.dart';
+import 'package:introducao_dart/4_async/8_repositories/models/cidade.dart';
 import 'package:http/http.dart';
 
 class CidadeRepository {

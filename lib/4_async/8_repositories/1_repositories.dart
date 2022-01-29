@@ -1,5 +1,5 @@
-import 'package:dart_fundamentos/4_async/8_repositories/repositories/cidade_repository.dart';
-import 'package:dart_fundamentos/4_async/8_repositories/repositories/user_repository.dart';
+import 'package:introducao_dart/4_async/8_repositories/repositories/cidade_repository.dart';
+import 'package:introducao_dart/4_async/8_repositories/repositories/user_repository.dart';
 
 Future<void> main() async {
   var cidadeRepository = CidadeRepository();

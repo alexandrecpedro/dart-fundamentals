@@ -1,4 +1,4 @@
-import 'package:dart_fundamentos/5_dart_banco_dados/database.dart';
+import 'package:introducao_dart/5_dart_banco_dados/database.dart';
 import 'package:mysql1/mysql1.dart';
 
 Future<void> main() async {
